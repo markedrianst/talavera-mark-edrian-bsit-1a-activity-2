@@ -107,12 +107,12 @@ div:nth-child(4){
     margin-top: 10%;
     background-color: whitesmoke;
     justify-content: center;
-    height:340px;
+    height:25vw;
 }
 #services h2{
     padding-top: 100px;
     padding-bottom: 50px;
-    font-size: 2.0em;
+    font-size: 2.8vw;
 }
 #services ul,li{
     display: inline;
