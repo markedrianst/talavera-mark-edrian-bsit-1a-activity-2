@@ -25,6 +25,7 @@
     font-size: 3.2vw;
     padding-bottom: 7%;
     margin: -5%;
+    text-shadow: 1px 1px 0px rgba(0,0,0,0.34);
 }
 #landing :last-child{
     font-size: 1.3vw;
@@ -47,7 +48,7 @@
     /* border: 1px solid black; */
 }
 div{
-    border: 1px solid whitesmoke;
+    border: 2px solid rgb(248, 242, 242);
     display: inline-block;
     align-content: center;
     background-color: whitesmoke;
