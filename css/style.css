@@ -29,6 +29,7 @@
 }
 #landing :last-child{
     font-size: 1.3vw;
+    text-shadow: 3px 3px 0px rgba(0,0,0,0.34);
 }
 
 #blog{
