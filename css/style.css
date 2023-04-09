@@ -58,7 +58,6 @@ div{
     -webkit-box-shadow: -3px -3px 10px -3px rgba(64,64,64,0.75);
     -moz-box-shadow: -3px -3px 10px -3px rgba(64,64,64,0.75);
     
- 
     width: 267px;
     height: 305px;
 
@@ -118,7 +117,7 @@ div:nth-child(4){
     display: inline;
     padding: 30px 40px;
     font-size: 20px;
-    /* border: 1px solid black ; */
+   
 }
 li{
     margin-right: 20px;
